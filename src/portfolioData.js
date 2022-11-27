@@ -56,12 +56,12 @@ let portfolioData = {
       {
         "skillname":"skill7",
         "skilldescription": "Node",
-        "skillimgurl":""
+        "skillimgurl":"images/skills/icons8-node-js-96.png"
       },
       {
         "skillname":"skill8",
         "skilldescription": "Sql",
-        "skillimgurl":"images/skills/mongo_logo.jpeg"
+        "skillimgurl":"images/skills/icons8-sql-96.png"
       },
     ],
     "portfolio":[
