@@ -26,26 +26,41 @@ let portfolioData = {
       {
         "skillname":"skill1",
         "skilldescription": "HTML",
-        "skillimgurl":"images/skills/html.png"
+        "skillimgurl":"images/skills/icons8-html-5-96.png"
       },
       {
         "skillname":"skill2",
         "skilldescription": "CSS",
-        "skillimgurl":"images/skills/css.png"
+        "skillimgurl":"images/skills/icons8-css3-96.png"
       },
       {
         "skillname":"skill3",
         "skilldescription": "Javascript",
-        "skillimgurl":"images/skills/javascript.png"
+        "skillimgurl":"images/skills/icons8-javascript-logo-96.png"
       },
       {
         "skillname":"skill4",
         "skilldescription": "React",
-        "skillimgurl":"images/skills/react.png"
+        "skillimgurl":"images/skills/icons8-react-96.png"
       },
       {
         "skillname":"skill5",
         "skilldescription": "MongoDB",
+        "skillimgurl":"images/skills/icons8-mongodb-96.png"
+      },
+      {
+        "skillname":"skill6",
+        "skilldescription": "git",
+        "skillimgurl":"images/skills/icons8-github-96.png"
+      },
+      {
+        "skillname":"skill7",
+        "skilldescription": "Node",
+        "skillimgurl":""
+      },
+      {
+        "skillname":"skill8",
+        "skilldescription": "Sql",
         "skillimgurl":"images/skills/mongo_logo.jpeg"
       },
     ],

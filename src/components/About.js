@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
+
 export default class About extends Component {
-  render() {
+render() {
     let portfolioData = this.props.portfolioData;
     return (
       <section id="about">
