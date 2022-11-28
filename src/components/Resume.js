@@ -34,7 +34,7 @@ export default  class Resume extends Component {
 
             <div className="three columns header-col">
                <h1><span>Skills</span></h1>
-            </div>
+               <a href='/.public/Assets/resume' download>Click here to download full resume</a>            </div>
 
             <div className="nine columns main-col">
 
@@ -46,7 +46,7 @@ export default  class Resume extends Component {
               return(
                 <div className="columns skills-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    <a href="#skills">
                       <img src={`${item.skillimgurl}`} className="item-img"/>
                       <div>
                         <div className="skills-item-meta">

@@ -67,13 +67,13 @@ let portfolioData = {
     "portfolio":[
       {
         "name":"Wave Break",
-        "description":"Find local beaches near you.",
+        "description":"An interactive Beach Dashboard application allows users to search the nearby beaches in California using two server-side APIs, ability to search multiple cities and saves the recent search history. Uses a Bulma CSS framework, and good quality coding standards.",
         "imgurl":"images/portfolio/wavebreak.jpg",
         "url": "https://github.com/hannamarcus/wavebreak"
       },
       {
         "name":"BikeRoute",
-        "description":"Explore mountain biking trails by region, leave and read reviews from fellow bike lovers!",
+        "description":"Explore mountain biking trails by region, leave and read reviews from fellow bike lovers! Uses Node.js and Express.js to create a RESTful API. Also utilized Handlebars.js, MySQL and the Sequelize ORM for the database.",
         "imgurl":"images/portfolio/project.jpg",
         "url": "https://github.com/Luan-Pham/Mountain-Bike-Trails"
 
