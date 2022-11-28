@@ -15,7 +15,7 @@ let portfolioData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"Hi there! My name is Hanna Marcus and I am an aspiring Web Developer, passionate about building exciting digital experiences. I am currently enrolled in UC Berkeley's Coding Bootcamp and I look forward to growing this portfolio to showcase my skills.",
+    "aboutme":"Hi there! My name is Hanna Marcus and I am an aspiring Web Developer, passionate about building exciting digital experiences. I am currently enrolled in UC Berkeley's Coding Bootcamp (graduating November 2022) and I look forward to growing this portfolio to showcase my skills!",
     "education":[
       {
         "UniversityName":"UC Berkeley Extension",
