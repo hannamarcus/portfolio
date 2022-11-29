@@ -34,7 +34,8 @@ export default  class Resume extends Component {
 
             <div className="three columns header-col">
                <h1><span>Skills</span></h1>
-               <a href='/.public/Assets/resume' download>Click here to download full resume</a>            </div>
+               <a href='/.images/resume' download>Click here to download full resume</a>            
+               </div>
 
             <div className="nine columns main-col">
 

@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 
 export default function Contact() {
   return (
-    <div className="row">
+    <div id="contact">
       <h1>Contact Page</h1>
     <div>
     <Form>
