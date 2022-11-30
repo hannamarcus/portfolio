@@ -213,7 +213,7 @@ nav li a:hover { color: lightblue; }
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #373233; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -266,7 +266,7 @@ nav li a:hover { color: lightblue; }
 #contact select {
    padding: 18px 20px;
 	color: #eee;
-	background: #373233;
+	/* background: #373233; */
 	margin-bottom: 42px;
 	border: 0;
 	outline: none;
@@ -278,7 +278,7 @@ nav li a:hover { color: lightblue; }
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #373233;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -621,7 +621,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+/* #contact a, #contact a:visited  { color: #11ABB0; } */
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
