@@ -33,7 +33,7 @@ single-page applications
 * WHEN I view the footer
 * THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
-## Links
+## Links to Portfolio
 * Link to Github Repo: https://github.com/hannamarcus/portfolio 
 * Link to Github Page: https://gitname.github.io/hanna-marcus-portfolio
 
