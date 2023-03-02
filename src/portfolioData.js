@@ -2,7 +2,7 @@ let portfolioData = {
     "imagebaseurl":"https://github.com/hannamarcus",
     "name": "Hanna Marcus",
     "role": "Junior Full-Stack Web Developer",
-    "roleDescription": " Welcome to my portfolio!",
+    "roleDescription": "Welcome to my portfolio!",
     "socialLinks":[
         {
           "name":"linkedin",
